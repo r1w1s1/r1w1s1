@@ -1,6 +1,6 @@
 Hi. I'm Ricardson. I work as Head of Infrastructure at [enjoei](www.enjoei.com.br).
 
-How do find me?
+📫 How to reach me?
 
 [my linkedin](https://www.linkedin.com/in/ricardson/)
 
