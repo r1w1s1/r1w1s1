@@ -1,4 +1,4 @@
-Hi. I'm Ricardson. I work as Head of Infrastructure at [enjoei](www.enjoei.com.br).
+Hi. I'm Ricardson. I work as SRE Team Leader.
 
 📫 How to reach me?
 
