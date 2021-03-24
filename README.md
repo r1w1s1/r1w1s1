@@ -9,4 +9,4 @@ Hi. I'm Ricardson. I work as SRE Team Leader.
 
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/r1williams/r1williams)]
+[![Visits Badge](https://badges.pufler.dev/visits/r1williams/r1williams)](https://badges.pufler.dev)
