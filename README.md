@@ -7,3 +7,6 @@ Hi. I'm Ricardson. I work as SRE Team Leader.
 <!--
 **r1williams/r1williams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+[![Visits Badge](https://badges.pufler.dev/visits/r1williams/r1williams)]
