@@ -7,3 +7,5 @@ Hi. I'm Ricardson. I work as SRE Team Leader.
 <!--
 **r1williams/r1williams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://visitor-badge.glitch.me/badge?page_id=r1williams.visitor-badge
+
