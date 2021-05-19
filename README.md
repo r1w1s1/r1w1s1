@@ -2,6 +2,10 @@
 
 I'm Ricardson. I work as SRE Team Leader.
 
+[Gist Práticas SRE](https://gist.github.com/r1williams/1ca63e1afb467410ddbb9081214a51ac)
+
+---------
+
 📫 How to reach me?
 
 <p align="left">
@@ -9,8 +13,6 @@ I'm Ricardson. I work as SRE Team Leader.
 </p>
 
 [![Visits Badge](https://badges.pufler.dev/visits/r1williams/r1williams)](https://badges.pufler.dev)
-
-
 
 
 <!--
