@@ -2,7 +2,7 @@
 
 I'm Ricardson. I work as SRE Team Leader.
 
-[Gist Práticas SRE](https://gist.github.com/r1williams/1ca63e1afb467410ddbb9081214a51ac)
+[Gist Práticas SRE](https://gist.github.com/r1w1s1/1ca63e1afb467410ddbb9081214a51ac)
 
 ---------
 
