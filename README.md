@@ -6,12 +6,6 @@ I'm Ricardson. I work as SRE Team Leader.
 
 ---------
 
-📫 How to reach me?
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/r1williams" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-</p>
-
 [![Visits Badge](https://badges.pufler.dev/visits/r1w1s1/r1w1s1)](https://badges.pufler.dev)
 
 
