@@ -4,6 +4,8 @@ I'm Ricardson. I work as Head Of Engineering.
 
 [Gist Práticas SRE](https://gist.github.com/r1w1s1/1ca63e1afb467410ddbb9081214a51ac)
 
+### [GitHub Blog](https://github.blog/) `GitHub Actions` RSS feed 📖
+
 <!--START_SECTION:feed-->
 * [How to start using reusable workflows with GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;2022-02-10-using-reusable-workflows-github-actions&#x2F;)
 * [How to build a CI&#x2F;CD pipeline with GitHub Actions in four simple steps](https:&#x2F;&#x2F;github.blog&#x2F;2022-02-02-build-ci-cd-pipeline-github-actions-four-steps&#x2F;)
