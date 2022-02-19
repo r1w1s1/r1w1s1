@@ -2,8 +2,8 @@ name: Update this repo's README
 
 on:
  schedule:
-   # Once a day at 8 AM
-   - cron: 0 8 * * *
+   # Once a day at 10:35 AM
+   - cron: 35 10 * * *
 
 jobs:
   update:

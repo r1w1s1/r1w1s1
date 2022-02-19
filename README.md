@@ -4,6 +4,10 @@ I'm Ricardson. I work as Head Of Engineering.
 
 [Gist Práticas SRE](https://gist.github.com/r1w1s1/1ca63e1afb467410ddbb9081214a51ac)
 
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
+
 ---------
 
 [![Visits Badge](https://badges.pufler.dev/visits/r1w1s1/r1w1s1)](https://badges.pufler.dev)
