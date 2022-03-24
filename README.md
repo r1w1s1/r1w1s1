@@ -7,11 +7,11 @@ I'm Ricardson. I work as Head Of Engineering.
 ### [GitHub Blog](https://github.blog/) `GitHub Actions` RSS feed 📖
 
 <!--START_SECTION:feed-->
+* [GitHub Actions: secure self-hosted runners by limiting them to specific workflows](https:&#x2F;&#x2F;github.blog&#x2F;2022-03-23-github-actions-secure-self-hosted-runners-specific-workflows&#x2F;)
 * [Save time with partial re-runs in GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;2022-03-16-save-time-partial-re-runs-github-actions&#x2F;)
 * [A new way to understand your GitHub-hosted runner capacity](https:&#x2F;&#x2F;github.blog&#x2F;2022-02-23-new-way-understand-github-hosted-runner-capacity&#x2F;)
 * [Get started with ease using security workflows!](https:&#x2F;&#x2F;github.blog&#x2F;2022-02-22-get-started-using-security-workflows&#x2F;)
 * [How to start using reusable workflows with GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;2022-02-10-using-reusable-workflows-github-actions&#x2F;)
-* [How to build a CI&#x2F;CD pipeline with GitHub Actions in four simple steps](https:&#x2F;&#x2F;github.blog&#x2F;2022-02-02-build-ci-cd-pipeline-github-actions-four-steps&#x2F;)
 <!--END_SECTION:feed-->
 
 ---------
