@@ -7,11 +7,11 @@ I'm Ricardson. I work as Head Of Engineering.
 ### [GitHub Blog](https://github.blog/) `GitHub Actions` RSS feed 📖
 
 <!--START_SECTION:feed-->
+* [Supercharging GitHub Actions with Job Summaries](https:&#x2F;&#x2F;github.blog&#x2F;2022-05-09-supercharging-github-actions-with-job-summaries&#x2F;)
 * [5 simple things every developer can do to ship more secure code](https:&#x2F;&#x2F;github.blog&#x2F;2022-04-22-5-simple-things-every-developer-can-do-to-ship-more-secure-code&#x2F;)
 * [Prevent the introduction of known vulnerabilities into your code](https:&#x2F;&#x2F;github.blog&#x2F;2022-04-06-prevent-introduction-known-vulnerabilities-into-your-code&#x2F;)
 * [4 ways we use GitHub Actions to build GitHub](https:&#x2F;&#x2F;github.blog&#x2F;2022-04-05-4-ways-we-use-github-actions-to-build-github&#x2F;)
 * [GitHub Actions: secure self-hosted runners by limiting them to specific workflows](https:&#x2F;&#x2F;github.blog&#x2F;2022-03-23-github-actions-secure-self-hosted-runners-specific-workflows&#x2F;)
-* [Save time with partial re-runs in GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;2022-03-16-save-time-partial-re-runs-github-actions&#x2F;)
 <!--END_SECTION:feed-->
 
 ---------
