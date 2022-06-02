@@ -7,11 +7,11 @@ I'm Ricardson. I work as Head Of Engineering.
 ### [GitHub Blog](https://github.blog/) `GitHub Actions` RSS feed 📖
 
 <!--START_SECTION:feed-->
+* [Connecting to a private network from GitHub-hosted Actions runners](https:&#x2F;&#x2F;github.blog&#x2F;2022-06-01-connecting-to-a-private-network-from-github-hosted-actions-runners&#x2F;)
 * [GitHub Enterprise Server 3.5 is now generally available](https:&#x2F;&#x2F;github.blog&#x2F;2022-05-31-github-enterprise-server-3-5-is-now-generally-available&#x2F;)
 * [Supercharging GitHub Actions with Job Summaries](https:&#x2F;&#x2F;github.blog&#x2F;2022-05-09-supercharging-github-actions-with-job-summaries&#x2F;)
 * [5 simple things every developer can do to ship more secure code](https:&#x2F;&#x2F;github.blog&#x2F;2022-04-22-5-simple-things-every-developer-can-do-to-ship-more-secure-code&#x2F;)
 * [Prevent the introduction of known vulnerabilities into your code](https:&#x2F;&#x2F;github.blog&#x2F;2022-04-06-prevent-introduction-known-vulnerabilities-into-your-code&#x2F;)
-* [4 ways we use GitHub Actions to build GitHub](https:&#x2F;&#x2F;github.blog&#x2F;2022-04-05-4-ways-we-use-github-actions-to-build-github&#x2F;)
 <!--END_SECTION:feed-->
 
 ---------
