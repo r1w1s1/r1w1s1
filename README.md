@@ -7,11 +7,11 @@ I'm Ricardson. I work as Head Of Engineering.
 ### [GitHub Blog](https://github.blog/) `GitHub Actions` RSS feed 📖
 
 <!--START_SECTION:feed-->
+* [Release Radar · November 2022 Edition](https:&#x2F;&#x2F;github.blog&#x2F;2022-12-16-release-radar-nov-2022&#x2F;)
 * [Introducing GitHub Actions Importer](https:&#x2F;&#x2F;github.blog&#x2F;2022-11-10-introducing-github-actions-importer&#x2F;)
 * [Everything new from GitHub Universe 2022](https:&#x2F;&#x2F;github.blog&#x2F;2022-11-09-everything-new-from-github-universe-2022&#x2F;)
 * [GitHub partners with Arm to revolutionize Internet of Things software development with GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;2022-11-02-github-partners-with-arm-to-revolutionize-internet-of-things-software-development-with-github-actions&#x2F;)
 * [Why we’re excited about the Sigstore general availability](https:&#x2F;&#x2F;github.blog&#x2F;2022-10-25-why-were-excited-about-the-sigstore-general-availability&#x2F;)
-* [Improving navigation for GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;2022-10-20-improving-navigation-for-github-actions&#x2F;)
 <!--END_SECTION:feed-->
 
 ---------
