@@ -7,11 +7,11 @@ I'm Ricardson. I work as Head Of Engineering.
 ### [GitHub Blog](https://github.blog/) `GitHub Actions` RSS feed 📖
 
 <!--START_SECTION:feed-->
+* [Metrics for issues, pull requests, and discussions](https:&#x2F;&#x2F;github.blog&#x2F;2023-07-19-metrics-for-issues-pull-requests-and-discussions&#x2F;)
 * [GitHub CLI project command is now generally available!](https:&#x2F;&#x2F;github.blog&#x2F;2023-07-11-github-cli-project-command-is-now-generally-available&#x2F;)
 * [New tool to secure your GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;2023-06-26-new-tool-to-secure-your-github-actions&#x2F;)
 * [Make your GitHub projects more accessible with accessibility-alt-text-bot](https:&#x2F;&#x2F;github.blog&#x2F;2023-06-12-make-your-github-projects-more-accessible-with-accessibility-alt-text-bot&#x2F;)
 * [Announcing the Stale Repos Action](https:&#x2F;&#x2F;github.blog&#x2F;2023-06-05-announcing-the-stale-repos-action&#x2F;)
-* [How to automate a Microsoft Power Platform deployment using GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;2023-05-24-how-to-automate-a-microsoft-power-platform-deployment-using-github-actions&#x2F;)
 <!--END_SECTION:feed-->
 
 ---------
