@@ -7,11 +7,11 @@ I'm Ricardson. I work as Head Of Engineering.
 ### [GitHub Blog](https://github.blog/) `GitHub Actions` RSS feed 📖
 
 <!--START_SECTION:feed-->
+* [From macOS runners to secure deployments, what’s new from GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;2023-12-07-from-macos-runners-to-secure-deployments-whats-new-from-github-actions&#x2F;)
 * [Security best practices for authors of GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;2023-11-16-security-best-practices-for-authors-of-github-actions&#x2F;)
 * [How to gain insight into your project contributors](https:&#x2F;&#x2F;github.blog&#x2F;2023-10-23-how-to-gain-insight-into-your-project-contributors&#x2F;)
 * [Enforcing code reliability by requiring workflows with GitHub repository rules](https:&#x2F;&#x2F;github.blog&#x2F;2023-10-11-enforcing-code-reliability-by-requiring-workflows-with-github-repository-rules&#x2F;)
 * [Introducing the new, Apple silicon powered M1 macOS larger runner for GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;2023-10-02-introducing-the-new-apple-silicon-powered-m1-macos-larger-runner-for-github-actions&#x2F;)
-* [How GitHub uses GitHub Actions and Actions larger runners to build and test GitHub.com](https:&#x2F;&#x2F;github.blog&#x2F;2023-09-26-how-github-uses-github-actions-and-actions-larger-runners-to-build-and-test-github-com&#x2F;)
 <!--END_SECTION:feed-->
 
 ---------
