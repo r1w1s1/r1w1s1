@@ -7,11 +7,11 @@ I'm Ricardson. I work as Head Of Engineering.
 ### [GitHub Blog](https://github.blog/) `GitHub Actions` RSS feed 📖
 
 <!--START_SECTION:feed-->
+* [GitHub-hosted runners: Double the power for open source](https:&#x2F;&#x2F;github.blog&#x2F;2024-01-17-github-hosted-runners-double-the-power-for-open-source&#x2F;)
 * [GitHub and the Ekoparty 2023 Capture the Flag](https:&#x2F;&#x2F;github.blog&#x2F;2024-01-08-github-and-the-ekoparty-2023-capture-the-flag&#x2F;)
 * [From macOS runners to secure deployments, what’s new from GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;2023-12-07-from-macos-runners-to-secure-deployments-whats-new-from-github-actions&#x2F;)
 * [Security best practices for authors of GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;2023-11-16-security-best-practices-for-authors-of-github-actions&#x2F;)
 * [How to gain insight into your project contributors](https:&#x2F;&#x2F;github.blog&#x2F;2023-10-23-how-to-gain-insight-into-your-project-contributors&#x2F;)
-* [Enforcing code reliability by requiring workflows with GitHub repository rules](https:&#x2F;&#x2F;github.blog&#x2F;2023-10-11-enforcing-code-reliability-by-requiring-workflows-with-github-repository-rules&#x2F;)
 <!--END_SECTION:feed-->
 
 ---------
