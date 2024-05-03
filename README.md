@@ -7,11 +7,11 @@ I'm Ricardson. I work as Head Of Engineering.
 ### [GitHub Blog](https://github.blog/) `GitHub Actions` RSS feed 📖
 
 <!--START_SECTION:feed-->
+* [Dependabot on GitHub Actions and self-hosted runners is now generally available](https:&#x2F;&#x2F;github.blog&#x2F;2024-05-02-dependabot-on-github-actions-and-self-hosted-runners-is-now-generally-available&#x2F;)
+* [Introducing Artifact Attestations–now in public beta](https:&#x2F;&#x2F;github.blog&#x2F;2024-05-02-introducing-artifact-attestations-now-in-public-beta&#x2F;)
 * [Where does your software (really) come from?](https:&#x2F;&#x2F;github.blog&#x2F;2024-04-30-where-does-your-software-really-come-from&#x2F;)
 * [GitHub Actions, Arm64, and the future of automotive software development](https:&#x2F;&#x2F;github.blog&#x2F;2024-04-26-github-actions-arm64-and-the-future-of-automotive-software-development&#x2F;)
 * [Bringing enterprise-level security and even more power to GitHub-hosted runners](https:&#x2F;&#x2F;github.blog&#x2F;2024-04-02-bringing-enterprise-level-security-and-even-more-power-to-github-hosted-runners&#x2F;)
-* [Get started with v4 of GitHub Actions Artifacts](https:&#x2F;&#x2F;github.blog&#x2F;2024-02-12-get-started-with-v4-of-github-actions-artifacts&#x2F;)
-* [GitHub-hosted runners: Double the power for open source](https:&#x2F;&#x2F;github.blog&#x2F;2024-01-17-github-hosted-runners-double-the-power-for-open-source&#x2F;)
 <!--END_SECTION:feed-->
 
 ---------
