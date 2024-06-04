@@ -7,11 +7,11 @@ I'm Ricardson. I work as Head Of Engineering.
 ### [GitHub Blog](https://github.blog/) `GitHub Actions` RSS feed 📖
 
 <!--START_SECTION:feed-->
+* [How GitHub reduced testing time for iOS apps with new runner features](https:&#x2F;&#x2F;github.blog&#x2F;2024-06-03-how-github-reduced-testing-time-for-ios-apps-with-new-runner-features&#x2F;)
+* [Arm64 on GitHub Actions: Powering faster, more efficient build systems](https:&#x2F;&#x2F;github.blog&#x2F;2024-06-03-arm64-on-github-actions-powering-faster-more-efficient-build-systems&#x2F;)
 * [Dependabot on GitHub Actions and self-hosted runners is now generally available](https:&#x2F;&#x2F;github.blog&#x2F;2024-05-02-dependabot-on-github-actions-and-self-hosted-runners-is-now-generally-available&#x2F;)
 * [Introducing Artifact Attestations–now in public beta](https:&#x2F;&#x2F;github.blog&#x2F;2024-05-02-introducing-artifact-attestations-now-in-public-beta&#x2F;)
 * [Where does your software (really) come from?](https:&#x2F;&#x2F;github.blog&#x2F;2024-04-30-where-does-your-software-really-come-from&#x2F;)
-* [GitHub Actions, Arm64, and the future of automotive software development](https:&#x2F;&#x2F;github.blog&#x2F;2024-04-26-github-actions-arm64-and-the-future-of-automotive-software-development&#x2F;)
-* [Bringing enterprise-level security and even more power to GitHub-hosted runners](https:&#x2F;&#x2F;github.blog&#x2F;2024-04-02-bringing-enterprise-level-security-and-even-more-power-to-github-hosted-runners&#x2F;)
 <!--END_SECTION:feed-->
 
 ---------
