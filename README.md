@@ -7,11 +7,11 @@ I'm Ricardson. I work as Head Of Engineering.
 ### [GitHub Blog](https://github.blog/) `GitHub Actions` RSS feed 📖
 
 <!--START_SECTION:feed-->
+* [The second half of software supply chain security on GitHub](https:&#x2F;&#x2F;github.blog&#x2F;security&#x2F;supply-chain-security&#x2F;the-second-half-of-software-supply-chain-security-on-github&#x2F;)
 * [How GitHub reduced testing time for iOS apps with new runner features](https:&#x2F;&#x2F;github.blog&#x2F;engineering&#x2F;infrastructure&#x2F;how-github-reduced-testing-time-for-ios-apps-with-new-runner-features&#x2F;)
 * [Arm64 on GitHub Actions: Powering faster, more efficient build systems](https:&#x2F;&#x2F;github.blog&#x2F;news-insights&#x2F;product-news&#x2F;arm64-on-github-actions-powering-faster-more-efficient-build-systems&#x2F;)
 * [Dependabot on GitHub Actions and self-hosted runners is now generally available](https:&#x2F;&#x2F;github.blog&#x2F;news-insights&#x2F;product-news&#x2F;dependabot-on-github-actions-and-self-hosted-runners-is-now-generally-available&#x2F;)
 * [Introducing Artifact Attestations–now in public beta](https:&#x2F;&#x2F;github.blog&#x2F;news-insights&#x2F;product-news&#x2F;introducing-artifact-attestations-now-in-public-beta&#x2F;)
-* [Where does your software (really) come from?](https:&#x2F;&#x2F;github.blog&#x2F;security&#x2F;supply-chain-security&#x2F;where-does-your-software-really-come-from&#x2F;)
 <!--END_SECTION:feed-->
 
 ---------
