@@ -7,11 +7,11 @@ I'm Ricardson. I work as Head Of Engineering.
 ### [GitHub Blog](https://github.blog/) `GitHub Actions` RSS feed 📖
 
 <!--START_SECTION:feed-->
+* [What 986 million code pushes say about the developer workflow in 2025](https:&#x2F;&#x2F;github.blog&#x2F;news-insights&#x2F;octoverse&#x2F;what-986-million-code-pushes-say-about-the-developer-workflow-in-2025&#x2F;)
 * [Automate your project with GitHub Models in Actions](https:&#x2F;&#x2F;github.blog&#x2F;ai-and-ml&#x2F;generative-ai&#x2F;automate-your-project-with-github-models-in-actions&#x2F;)
 * [When to choose GitHub-Hosted runners or self-hosted runners with GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;enterprise-software&#x2F;ci-cd&#x2F;when-to-choose-github-hosted-runners-or-self-hosted-runners-with-github-actions&#x2F;)
 * [5 GitHub Actions every maintainer needs to know](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;maintainers&#x2F;5-github-actions-every-maintainer-needs-to-know&#x2F;)
 * [Video: How to run dependency audits with GitHub Copilot](https:&#x2F;&#x2F;github.blog&#x2F;developer-skills&#x2F;github&#x2F;video-how-to-run-dependency-audits-with-github-copilot&#x2F;)
-* [The second half of software supply chain security on GitHub](https:&#x2F;&#x2F;github.blog&#x2F;security&#x2F;supply-chain-security&#x2F;the-second-half-of-software-supply-chain-security-on-github&#x2F;)
 <!--END_SECTION:feed-->
 
 ---------
