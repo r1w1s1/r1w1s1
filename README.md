@@ -7,11 +7,11 @@ I'm Ricardson. I work as Head Of Engineering.
 ### [GitHub Blog](https://github.blog/) `GitHub Actions` RSS feed 📖
 
 <!--START_SECTION:feed-->
+* [60 million Copilot code reviews and counting](https:&#x2F;&#x2F;github.blog&#x2F;ai-and-ml&#x2F;github-copilot&#x2F;60-million-copilot-code-reviews-and-counting&#x2F;)
 * [Automate repository tasks with GitHub Agentic Workflows  ](https:&#x2F;&#x2F;github.blog&#x2F;ai-and-ml&#x2F;automate-repository-tasks-with-github-agentic-workflows&#x2F;)
 * [Let’s talk about GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;news-insights&#x2F;product-news&#x2F;lets-talk-about-github-actions&#x2F;)
 * [What 986 million code pushes say about the developer workflow in 2025](https:&#x2F;&#x2F;github.blog&#x2F;news-insights&#x2F;octoverse&#x2F;what-986-million-code-pushes-say-about-the-developer-workflow-in-2025&#x2F;)
 * [Automate your project with GitHub Models in Actions](https:&#x2F;&#x2F;github.blog&#x2F;ai-and-ml&#x2F;generative-ai&#x2F;automate-your-project-with-github-models-in-actions&#x2F;)
-* [When to choose GitHub-Hosted runners or self-hosted runners with GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;enterprise-software&#x2F;ci-cd&#x2F;when-to-choose-github-hosted-runners-or-self-hosted-runners-with-github-actions&#x2F;)
 <!--END_SECTION:feed-->
 
 ---------
