@@ -7,11 +7,11 @@ I'm Ricardson. I work as Head Of Engineering.
 ### [GitHub Blog](https://github.blog/) `GitHub Actions` RSS feed 📖
 
 <!--START_SECTION:feed-->
+* [What’s coming to our GitHub Actions 2026 security roadmap](https:&#x2F;&#x2F;github.blog&#x2F;news-insights&#x2F;product-news&#x2F;whats-coming-to-our-github-actions-2026-security-roadmap&#x2F;)
 * [GitHub for Beginners: Getting started with GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;developer-skills&#x2F;github&#x2F;github-for-beginners-getting-started-with-github-actions&#x2F;)
 * [Continuous AI for accessibility: How GitHub transforms feedback into inclusion](https:&#x2F;&#x2F;github.blog&#x2F;ai-and-ml&#x2F;github-copilot&#x2F;continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion&#x2F;)
 * [Under the hood: Security architecture of GitHub Agentic Workflows](https:&#x2F;&#x2F;github.blog&#x2F;ai-and-ml&#x2F;generative-ai&#x2F;under-the-hood-security-architecture-of-github-agentic-workflows&#x2F;)
 * [60 million Copilot code reviews and counting](https:&#x2F;&#x2F;github.blog&#x2F;ai-and-ml&#x2F;github-copilot&#x2F;60-million-copilot-code-reviews-and-counting&#x2F;)
-* [Automate repository tasks with GitHub Agentic Workflows  ](https:&#x2F;&#x2F;github.blog&#x2F;ai-and-ml&#x2F;automate-repository-tasks-with-github-agentic-workflows&#x2F;)
 <!--END_SECTION:feed-->
 
 ---------
