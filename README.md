@@ -1,22 +1,45 @@
-### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+# r1w1s1
 
-I'm Ricardson. I work as Head Of Engineering.
+I'm Ricardson, also known as r1w1s1.
 
-[Gist Práticas SRE](https://gist.github.com/r1w1s1/1ca63e1afb467410ddbb9081214a51ac)
+I work with Linux infrastructure, DevOps, and SRE. My main interests are
+Slackware, Unix systems, plain text, shell tools, and boring infrastructure
+that keeps working.
 
-### [GitHub Blog](https://github.blog/) `GitHub Actions` RSS feed 📖
+I am a Slackware Core Team member and an active SlackBuilds.org contributor.
 
-<!--START_SECTION:feed-->
-* [Validating agentic behavior when “correct” isn’t deterministic](https:&#x2F;&#x2F;github.blog&#x2F;ai-and-ml&#x2F;generative-ai&#x2F;validating-agentic-behavior-when-correct-isnt-deterministic&#x2F;)
-* [Securing the open source supply chain across GitHub](https:&#x2F;&#x2F;github.blog&#x2F;security&#x2F;supply-chain-security&#x2F;securing-the-open-source-supply-chain-across-github&#x2F;)
-* [What’s coming to our GitHub Actions 2026 security roadmap](https:&#x2F;&#x2F;github.blog&#x2F;news-insights&#x2F;product-news&#x2F;whats-coming-to-our-github-actions-2026-security-roadmap&#x2F;)
-* [GitHub for Beginners: Getting started with GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;developer-skills&#x2F;github&#x2F;github-for-beginners-getting-started-with-github-actions&#x2F;)
-* [Continuous AI for accessibility: How GitHub transforms feedback into inclusion](https:&#x2F;&#x2F;github.blog&#x2F;ai-and-ml&#x2F;github-copilot&#x2F;continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion&#x2F;)
-<!--END_SECTION:feed-->
+## Contributions
 
----------
+- Slackware Core Team member
+- SlackBuilds.org maintainer and contributor
+- Slackware-related documentation, notes, and small tools
+- Unix and vi/nvi notes focused on simple workflows
+- Upstream patches and pull requests across open source projects
 
-<!--
-**r1williams/r1williams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Slackware
 
+- [slackware.com/~r1w1s1](http://www.slackware.com/~r1w1s1/)
+- [SlackBuilds.org maintainer page](https://www.slackbuilds.org/advsearch.php?q=r1w1s1%40fastmail.com&stype=maint)
+- [Slackware tagfiles](https://git.sr.ht/~r1w1s1/slackware-tagfiles)
 
+## Notes and projects
+
+- [code-notes](https://git.sr.ht/~r1w1s1/code-notes)
+- [tools](https://forge.slackware.nl/r1w1s1/tools)
+- [site](https://r1w1s1.srht.site/)
+- [sourcehut](https://sr.ht/~r1w1s1/)
+
+## Selected merged upstream work
+
+- [pekwm/pekwm#209](https://github.com/pekwm/pekwm/pull/209) - improve Linux battery percentage detection using energy-based values
+
+## GitHub pull requests
+
+- [merged pull requests mentioning r1w1s1](https://github.com/search?q=%22r1w1s1%22+is%3Apr+is%3Amerged&type=pullrequests)
+- [all pull requests mentioning r1w1s1](https://github.com/search?q=%22r1w1s1%22+is%3Apr&type=pullrequests)
+
+## Contact
+
+- [@r1w1s1@snac.bsd.cafe](https://snac.bsd.cafe/r1w1s1)
+- [x.com/r1w1s1](https://x.com/r1w1s1)
+- [r1w1s1.bsky.social](https://bsky.app/profile/r1w1s1.bsky.social)
