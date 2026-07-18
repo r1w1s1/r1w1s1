@@ -23,6 +23,12 @@ I am a Slackware Core Team member and an active SlackBuilds.org contributor.
 - [SlackBuilds.org maintainer page](https://www.slackbuilds.org/advsearch.php?q=r1w1s1%40fastmail.com&stype=maint)
 - [Slackware tagfiles](https://git.sr.ht/~r1w1s1/slackware-tagfiles)
 
+### Main repositories
+
+- [sonicde-SlackBuild](https://github.com/r1w1s1/sonicde-SlackBuild)
+- [xlibre-SlackBuild](https://github.com/r1w1s1/xlibre-SlackBuild)
+- [slackbuilds](https://github.com/r1w1s1/slackbuilds)
+
 ## Contact
 
 - [@r1w1s1@snac.bsd.cafe](https://snac.bsd.cafe/r1w1s1)
