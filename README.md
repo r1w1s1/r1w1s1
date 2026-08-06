@@ -1,36 +1,37 @@
 # r1w1s1
 
-I'm Ricardson, also known as r1w1s1.
+Hi, I'm Ricardson (r1w1s1).
 
-I work with Linux infrastructure, DevOps, and SRE.
+Open source developer focused on Slackware Linux, traditional Unix systems,
+X11, and software that follows the Unix philosophy.
 
-My main interests are Slackware, Unix systems, plain text, shell tools, and
-boring infrastructure that keeps working.
+I'm a member of the Slackware Core Team and an active
+SlackBuilds.org maintainer and contributor.
 
-I am a Slackware Core Team member and an active SlackBuilds.org contributor.
+> I maintain software that keeps Unix systems simple, stable, and accessible
+> to the community.
 
-## Contributions
+## Open Source
 
 - Slackware Core Team member
 - SlackBuilds.org maintainer and contributor
-- Slackware documentation, notes, and small tools
-- Unix and vi/nvi workflows
-- Upstream patches and open source contributions
+- Slackware documentation, packaging, and small utilities
+- Unix, shell, and vi/nvi workflows
+- Upstream contributions, including patches accepted by projects such as [suckless.org](https://tools.suckless.org/slstatus/patches/fmt-human-no-space/)
+
+## Professional
+
+I work with Linux infrastructure, DevOps, SRE, Kubernetes, and cloud platforms,
+building and operating reliable production systems.
 
 ## Slackware
 
-- [slackware.com/~r1w1s1](http://www.slackware.com/~r1w1s1/)
+- [Slackware page](https://slackware.com/~r1w1s1/)
 - [SlackBuilds.org maintainer page](https://www.slackbuilds.org/advsearch.php?q=r1w1s1%40fastmail.com&stype=maint)
 - [Slackware tagfiles](https://git.sr.ht/~r1w1s1/slackware-tagfiles)
 
-### Main repositories
+## Featured Repositories
 
 - [sonicde-SlackBuild](https://github.com/r1w1s1/sonicde-SlackBuild)
 - [xlibre-SlackBuild](https://github.com/r1w1s1/xlibre-SlackBuild)
 - [slackbuilds](https://github.com/r1w1s1/slackbuilds)
-
-## Contact
-
-- [@r1w1s1@snac.bsd.cafe](https://snac.bsd.cafe/r1w1s1)
-- [x.com/r1w1s1](https://x.com/r1w1s1)
-- [r1w1s1.bsky.social](https://bsky.app/profile/r1w1s1.bsky.social)
