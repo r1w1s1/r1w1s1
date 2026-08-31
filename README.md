@@ -24,6 +24,12 @@ SlackBuilds.org maintainer and contributor.
 I work with Linux infrastructure, DevOps, SRE, Kubernetes, and cloud platforms,
 building and operating reliable production systems.
 
+## Codeberg
+
+Some of my open source work is also hosted on Codeberg:
+
+- [Codeberg activity](https://codeberg.org/r1w1s1?tab=activity)
+
 ## Slackware
 
 - [Slackware page](https://slackware.com/~r1w1s1/)
