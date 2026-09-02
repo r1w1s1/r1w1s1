@@ -39,6 +39,8 @@ CWM, traditional Unix tools, and simple shell scripts.
 
 [Explore my CWM setup →](https://github.com/r1w1s1/cwm-config)
 
+[Desktop history →](https://github.com/r1w1s1/desktop-history)
+
 ## Featured Repositories
 
 - [code-notes](https://github.com/r1w1s1/code-notes) - Plain-text notes on Slackware, Unix, and small systems.
