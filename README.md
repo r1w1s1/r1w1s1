@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="r1w1s1-header.png" alt="Slackware geometric header" width="100%">
+  <img src="r1w1s1-header.png" alt="Slackfetch system information header" width="100%">
 </p>
 
 Hi, I'm Ricardson (r1w1s1).
