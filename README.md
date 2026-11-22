@@ -1,11 +1,11 @@
 Hi, I'm Ricardson (r1w1s1).
 
 Open source developer, Slackware Core Team member, and Linux infrastructure
-engineer. I work with DevOps, SRE, Kubernetes, and production systems.
+engineer focused on DevOps, SRE, Kubernetes, and production systems.
 
-I like C, shell scripting, Unix, simple and explicit software, and traditional
-tools. Currently exploring NixOS, the Nix language, declarative configuration,
-and reproducible builds.
+My interests include C, shell scripting, Unix, simple and explicit software,
+and traditional tools. Currently exploring NixOS, the Nix language, declarative
+configuration, and reproducible builds.
 
 ## Open source
 
