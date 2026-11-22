@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="r1w1s1-header.png" alt="Slackfetch system information header" width="100%">
-</p>
-
 Hi, I'm Ricardson (r1w1s1).
 
 Slackware user, open source developer, and Unix enthusiast. I like C, shell
